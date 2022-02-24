@@ -15,7 +15,6 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 ### Screenshot :camera:
 
 ![](design/active-states.jpg)
-![](design/mobile-design.jpg)
 
 ### Links
 
